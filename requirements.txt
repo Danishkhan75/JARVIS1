@@ -31,3 +31,9 @@ pywhatkit>=5.4
 psutil>=5.9.0
 google-api-python-client>=2.100.0
 
+pygame==2.5.2
+gunicorn
+flask   (if you are using flask)
+
+
+
